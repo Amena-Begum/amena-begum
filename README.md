@@ -49,13 +49,15 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amena-begum123&show_icons=true&theme=radial" alt="Amena Begum's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amena-begum123&layout=compact&theme=radial" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amena-begum123&show_icons=true&theme=tokyonight" alt="Amena's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amena-begum123&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amena-begum123&theme=radial" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amena-begum123&theme=tokyonight" alt="GitHub Streak" />
 </p>
