@@ -48,3 +48,9 @@
 </p>
 
 ---
+
+### 📊 GitHub Activity & Stats:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amena-begum123&theme=react-dark&hide_border=true" alt="Amena's Activity Graph" width="100%" />
+</p>
