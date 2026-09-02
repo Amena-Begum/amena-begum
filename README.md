@@ -1,4 +1,5 @@
-<img width="2048" height="512" alt="Banner-img-amena" src="https://github.com/user-attachments/assets/df80f900-5b32-436e-8a86-bb10f80a7ed2" /> 
+<img width="2048" height="512" alt="Banner-img-amena" src="https://github.com/user-attachments/assets/85710071-4896-4fdf-8868-f15a04838c59" />
+<!-- <img width="2048" height="512" alt="Banner-img-amena" src="https://github.com/user-attachments/assets/df80f900-5b32-436e-8a86-bb10f80a7ed2" />  -->
 
 <h1 align="center">Hi 👋, I'm Amena Begum</h1>
 <p align="center">
