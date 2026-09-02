@@ -49,8 +49,8 @@
 
 ---
 
-### 📊 GitHub Contributions:
+### 📊 GitHub Overview:
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/amena-begum123" alt="Amena's GitHub Contributions" width="100%" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amena-begum123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
